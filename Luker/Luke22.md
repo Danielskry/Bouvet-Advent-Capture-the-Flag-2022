@@ -8,7 +8,7 @@ For å finne tilbake til eldre informasjon på en nettside kan man se om den har
 
 ![bilde](https://user-images.githubusercontent.com/15195014/210174728-f1d43e93-5c56-4bf5-bb3a-2c7bfd5cf7a5.png)
 
-I 2002 finner vi et Snapshot for 29 november, 2022. Går vi inn på denne finner vi:
+I 2002 finner vi et Snapshot for 29 november. Går vi inn på denne finner vi:
 
 ![bilde](https://user-images.githubusercontent.com/15195014/210174551-1160cedc-9b03-4a72-8a0e-6aaab4839c37.png)
 
