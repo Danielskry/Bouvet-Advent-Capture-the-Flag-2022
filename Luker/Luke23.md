@@ -12,4 +12,4 @@ Sangen i lydklippet var fra flåklypa: https://www.youtube.com/watch?v=teMVwdbaj
 Flagget: BOUVET-JUL{KJELL_AUKRUST}
 
 
-[Gå til neste luke](Luke23.md)&nbsp; :arrow_right:
+[Gå til neste luke](Luke24.md)&nbsp; :arrow_right:
